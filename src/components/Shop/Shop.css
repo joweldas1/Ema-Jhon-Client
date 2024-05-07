@@ -25,3 +25,13 @@
     justify-content: space-between;
     align-items: center;
 }
+
+.pagination{
+    max-width:max-content;
+    margin: auto;
+    text-align: center;
+}
+
+.pageButton{
+    background-color: orange;
+}
